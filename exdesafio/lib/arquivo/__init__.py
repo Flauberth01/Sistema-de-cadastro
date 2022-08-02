@@ -1,4 +1,4 @@
-from exdesafio.lib.interface import *
+from lib.interface import *
 def arquivoExiste(nome):
     try:
         a = open(nome, 'rt')

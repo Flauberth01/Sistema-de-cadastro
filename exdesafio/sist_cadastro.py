@@ -1,5 +1,5 @@
-from exdesafio.lib.interface import *
-from exdesafio.lib.arquivo import *
+from lib.interface import *
+from lib.arquivo import *
 from time import sleep
 
 arquivo = 'banco.txt'
